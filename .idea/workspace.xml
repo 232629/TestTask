@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbfeb928-ee77-4b6c-8424-d9c1b41a74d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UyKKyKcXOhQzSqeULvqRrglNXT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pages" />
+      <recent name="infrastructure" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="infrastructure" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Astekbet.testLiveFootball">
+    <configuration name="Astekbet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Astekbet" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Astekbet.testLive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Astekbet" />
+      <option name="METHOD_NAME" value="testLive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Astekbet.testLiveFootball (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Astekbet" />
+      <option name="METHOD_NAME" value="testLiveFootball(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Astekbet.testLiveFootball" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Astekbet" />
+      <option name="METHOD_NAME" value="testLiveFootball" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Astekbet.testLiveFootball" />
+        <item itemvalue="JUnit.Astekbet" />
+        <item itemvalue="JUnit.Astekbet.testLive" />
+        <item itemvalue="JUnit.Astekbet.testLiveFootball (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbfeb928-ee77-4b6c-8424-d9c1b41a74d1" name="Default Changelist" comment="" />
+      <created>1576323334303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576323334303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="150" width="800" height="677" key="#Project_Structure" timestamp="1576420188619">
+      <screen x="69" y="27" width="1851" height="923" />
+    </state>
+    <state x="480" y="150" width="800" height="677" key="#Project_Structure/69.27.1851.923@69.27.1851.923" timestamp="1576420188619" />
+    <state x="792" y="200" width="374" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1576352889202">
+      <screen x="69" y="27" width="1851" height="923" />
+    </state>
+    <state x="792" y="200" width="374" height="577" key="#com.intellij.ide.util.MemberChooser/69.27.1851.923@69.27.1851.923" timestamp="1576352889202" />
+    <state x="638" y="27" width="671" height="923" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576346536405">
+      <screen x="69" y="27" width="1851" height="923" />
+    </state>
+    <state x="638" y="27" width="671" height="923" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/69.27.1851.923@69.27.1851.923" timestamp="1576346536405" />
+    <state x="727" y="236" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576379618609">
+      <screen x="69" y="27" width="1851" height="923" />
+    </state>
+    <state x="727" y="236" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/69.27.1851.923@69.27.1851.923" timestamp="1576379618609" />
+    <state x="734" y="350" width="490" height="277" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1576357623039">
+      <screen x="69" y="27" width="1851" height="923" />
+    </state>
+    <state x="734" y="350" width="490" height="277" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/69.27.1851.923@69.27.1851.923" timestamp="1576357623039" />
+    <state width="1609" height="235" key="GridCell.Tab.0.bottom" timestamp="1576425229297">
+      <screen x="69" y="27" width="1851" height="923" />
+    </state>
+    <state width="1609" height="235" key="GridCell.Tab.0.bottom/69.27.1851.923@69.27.1851.923" timestamp="1576425229297" />
+    <state width="1609" height="235" key="GridCell.Tab.0.center" timestamp="1576425229296">
+      <screen x="69" y="27" width="1851" height="923" />
+    </state>
+    <state width="1609" height="235" key="GridCell.Tab.0.center/69.27.1851.923@69.27.1851.923" timestamp="1576425229296" />
+    <state width="1609" height="235" key="GridCell.Tab.0.left" timestamp="1576425229294">
+      <screen x="69" y="27" width="1851" height="923" />
+    </state>
+    <state width="1609" height="235" key="GridCell.Tab.0.left/69.27.1851.923@69.27.1851.923" timestamp="1576425229294" />
+    <state width="1609" height="235" key="GridCell.Tab.0.right" timestamp="1576425229296">
+      <screen x="69" y="27" width="1851" height="923" />
+    </state>
+    <state width="1609" height="235" key="GridCell.Tab.0.right/69.27.1851.923@69.27.1851.923" timestamp="1576425229296" />
+    <state width="1609" height="332" key="GridCell.Tab.1.bottom" timestamp="1576425105049">
+      <screen x="69" y="27" width="1851" height="923" />
+    </state>
+    <state width="1609" height="332" key="GridCell.Tab.1.bottom/69.27.1851.923@69.27.1851.923" timestamp="1576425105049" />
+    <state width="1609" height="332" key="GridCell.Tab.1.center" timestamp="1576425105047">
+      <screen x="69" y="27" width="1851" height="923" />
+    </state>
+    <state width="1609" height="332" key="GridCell.Tab.1.center/69.27.1851.923@69.27.1851.923" timestamp="1576425105047" />
+    <state width="1609" height="332" key="GridCell.Tab.1.left" timestamp="1576425105044">
+      <screen x="69" y="27" width="1851" height="923" />
+    </state>
+    <state width="1609" height="332" key="GridCell.Tab.1.left/69.27.1851.923@69.27.1851.923" timestamp="1576425105044" />
+    <state width="1609" height="332" key="GridCell.Tab.1.right" timestamp="1576425105048">
+      <screen x="69" y="27" width="1851" height="923" />
+    </state>
+    <state width="1609" height="332" key="GridCell.Tab.1.right/69.27.1851.923@69.27.1851.923" timestamp="1576425105048" />
+    <state x="564" y="234" width="824" height="508" key="IDE.errors.dialog" timestamp="1576366524152">
+      <screen x="69" y="27" width="1851" height="923" />
+    </state>
+    <state x="564" y="234" width="824" height="508" key="IDE.errors.dialog/69.27.1851.923@69.27.1851.923" timestamp="1576366524152" />
+    <state x="584" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1576421664315">
+      <screen x="69" y="27" width="1851" height="923" />
+    </state>
+    <state x="584" y="316" key="com.intellij.ide.util.TipDialog/69.27.1851.923@69.27.1851.923" timestamp="1576421664315" />
+  </component>
+</project>
